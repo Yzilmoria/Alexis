@@ -14,7 +14,7 @@ namespace testTask
         {
             //Process myProcess = Process.Start("C:\\Users\\Irida\\Documents\\Visual Studio 2017\\Projects\\GoogleTask\\GoogleTask\\bin\\Debug\\GoogleTask.exe");
             //Thread.Sleep(TimeSpan.FromSeconds(15));
-            //if (!myProcess.HasExited) { myProcess.Kill(); } // THIS IS A GIT TEST
+            //if (!myProcess.HasExited) { myProcess.Kill(); }
 
             Process myProcess = new Process();
             Console.WriteLine("Starting process");
