@@ -1,0 +1,6 @@
+c:\users\irida\documents\visual studio 2017\Projects\GoogleTask\GoogleTask\bin\Debug\GoogleTask.exe.config
+c:\users\irida\documents\visual studio 2017\Projects\GoogleTask\GoogleTask\bin\Debug\GoogleTask.exe
+c:\users\irida\documents\visual studio 2017\Projects\GoogleTask\GoogleTask\bin\Debug\GoogleTask.pdb
+c:\users\irida\documents\visual studio 2017\Projects\GoogleTask\GoogleTask\obj\Debug\GoogleTask.csprojResolveAssemblyReference.cache
+c:\users\irida\documents\visual studio 2017\Projects\GoogleTask\GoogleTask\obj\Debug\GoogleTask.exe
+c:\users\irida\documents\visual studio 2017\Projects\GoogleTask\GoogleTask\obj\Debug\GoogleTask.pdb

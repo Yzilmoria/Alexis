@@ -1,0 +1,5 @@
+c:\users\irida\documents\visual studio 2017\Projects\testTask\testTask\bin\Debug\testTask.exe.config
+c:\users\irida\documents\visual studio 2017\Projects\testTask\testTask\bin\Debug\testTask.exe
+c:\users\irida\documents\visual studio 2017\Projects\testTask\testTask\bin\Debug\testTask.pdb
+c:\users\irida\documents\visual studio 2017\Projects\testTask\testTask\obj\Debug\testTask.exe
+c:\users\irida\documents\visual studio 2017\Projects\testTask\testTask\obj\Debug\testTask.pdb

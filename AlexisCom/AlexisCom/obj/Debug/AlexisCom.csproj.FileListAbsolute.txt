@@ -1,0 +1,6 @@
+c:\users\irida\documents\visual studio 2017\Projects\AlexisCom\AlexisCom\bin\Debug\AlexisCom.exe.config
+c:\users\irida\documents\visual studio 2017\Projects\AlexisCom\AlexisCom\bin\Debug\AlexisCom.exe
+c:\users\irida\documents\visual studio 2017\Projects\AlexisCom\AlexisCom\bin\Debug\AlexisCom.pdb
+c:\users\irida\documents\visual studio 2017\Projects\AlexisCom\AlexisCom\obj\Debug\AlexisCom.exe
+c:\users\irida\documents\visual studio 2017\Projects\AlexisCom\AlexisCom\obj\Debug\AlexisCom.pdb
+C:\Users\Irida\documents\visual studio 2017\Projects\AlexisCom\AlexisCom\obj\Debug\AlexisCom.csprojResolveAssemblyReference.cache
